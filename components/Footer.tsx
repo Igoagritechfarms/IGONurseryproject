@@ -66,10 +66,6 @@ const Footer: React.FC<FooterProps> = ({ setCurrentPage }) => {
                 <div className="font-bold text-white mb-1">Mon - Sat</div>
                 <div className="text-sm">10:00 AM - 07:30 PM</div>
               </li>
-              <li>
-                {/* <div className="font-bold text-white mb-1">Sunday</div>
-                <div className="text-sm">10:00 AM - 04:00 PM</div> */}
-              </li>
             </ul>
           </div>
 
